@@ -37,31 +37,31 @@ This project combines **Computer Vision**, **AI**, and **Game Development** usin
 ## Installation & Setup
 ## 1.Clone the Repository
 
-'''bash
-git clone https://github.com/YOUR_USERNAME/duck-hunt-hand-gesture.git
-cd duck-hunt-hand-gesture
+    '''bash
+    git clone https://github.com/Vaishuu-creator/duck-hunt-hand-gesture.git
+    cd duck-hunt-hand-gesture
 
 ## 2.Create Virtual Environment (Recommended)
 
-'''bash
-python -m venv venv
-source venv/Scripts/activate   # Windows (Git Bash)
+    '''bash
+    python -m venv venv
+    source venv/Scripts/activate   # Windows (Git Bash)
 
 ## 3.Install Dependencies
-'''bash
-pip install -r requirements.txt
+    '''bash
+    pip install -r requirements.txt
 
 ## ▶️ How to Run the Game
-'''bash
-python duck_hunt.py
+    '''bash
+    python duck_hunt.py
 
 ✔ Ensure your webcam is connected
 ✔ Allow camera permission when prompted
 
 ## 🎯 How to Play
-1.Open palm to enable hand tracking
-2.Point your index finger to aim
-3.Keep the finger tip over the bird
-4.Perform a shoot gesture (finger steady)
+- Open palm to enable hand tracking
+- Point your index finger to aim
+- Keep the finger tip over the bird
+- Perform a shoot gesture (finger steady)
 
 Hit bird → bird falls → score increases 🎉
