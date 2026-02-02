@@ -1,6 +1,7 @@
 # Duck Hunt – Hand Gesture Controlled Game
 
 A fun **gesture-controlled game** where you shoot flying ducks using **hand gestures** detected from your webcam — no keyboard or mouse needed!  
+
 This project uses **OpenCV**, **MediaPipe Hands**, and **Python** to create an interactive computer vision game.
 
 ---
